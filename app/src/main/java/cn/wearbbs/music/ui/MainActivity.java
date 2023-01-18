@@ -45,10 +45,10 @@ public class MainActivity extends AppCompatActivity {
         EventBus.getDefault().register(this);
 
         if(SharedPreferencesUtil.getString("server","vercel").equals("wearbbs")){
-            NetWorkUtil.setDomain("https://music.wearbbs.cn/");
+            NetWorkUtil.setDomain("https://music-api.yunfengxm.com/");
         }
         else{
-            NetWorkUtil.setDomain("https://api.wmusic.pro/");
+            NetWorkUtil.setDomain("https://music-api.yunfengxm.com/");
         }
 
         if (SharedPreferencesUtil.getBoolean("dark", false)) {
