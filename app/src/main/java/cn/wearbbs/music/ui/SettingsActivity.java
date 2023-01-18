@@ -65,10 +65,10 @@ public class SettingsActivity extends SlideBackActivity {
 
             findPreference("server").setOnPreferenceChangeListener((preference, newValue) -> {
                 if(newValue.equals("vercel")){
-                    NetWorkUtil.setDomain("https://api.wmusic.pro/");
+                    NetWorkUtil.setDomain("https://music-api.yunfengxm.com/");
                 }
                 else{
-                    NetWorkUtil.setDomain("https://music.wearbbs.cn");
+                    NetWorkUtil.setDomain("https://music-api.yunfengxm.com/");
                 }
                 return true;
             });
