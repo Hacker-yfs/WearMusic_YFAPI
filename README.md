@@ -16,6 +16,11 @@
 
 一款第三方网易云音乐客户端，支持歌词、音乐云盘、歌单、评论等功能。
 
+已修改为Hacker_yfs自建API
+原作者JackuXL保留此项目所有权
+
+项目原地址：[GitHub](https://github.com/OpenSourceWear/WearMusic)
+
 ### 预览图片
 
 ![预览图片](https://i.loli.net/2021/08/09/PZ8RA1GKEQ7N6rT.png)
@@ -29,14 +34,16 @@
 #### 手动安装
 
 - [官方网站](https://wmusic.wearbbs.cn)
-- [Github Release](https://github.com/JackuXL/WearMusic/releases)
+（二开者注：目前已无法访问）
+- [二开版Github Release](https://github.com/Hacker-yfs/WearMusic_YFAPI/releases)
+- [原项目Github Release](https://github.com/JackuXL/WearMusic/releases)
 
-> 下载后，请前往 [WearBBS](https://wearbbs.cn) 查看 [ADB 教程](https://wearbbs.cn/threads/adb.110/)，以将其安装至手表。
+> 下载后，请前往 [WearBBS](https://wearbbs.cn) 查看 [ADB 教程](https://wearbbs.cn/threads/adb.110/)，以将其安装至手表。（二开者注：目前已无法访问，可自行百度“如何使用ADB安装APK”）
 
 
 ### 了解更多
 
-> 请前往 [WearBBS 资源中心](https://wearbbs.cn/resources/wearmusic.260/) 。
+> 请前往 [WearBBS 资源中心](https://wearbbs.cn/resources/wearmusic.260/) 。（二开者注：目前已无法访问）
 
 
 
@@ -52,6 +59,7 @@
 - 软件交流群：133636679
 
 WearMusic 是完全开源且免费的。同时，维护后台的[API服务器](https://music.wearbbs.cn)和[更新服务器](https://wmu.wearbbs.cn)需要投入大量的资金，您可以自愿捐助我们，保证WearMusic 的正常更新、运行。
+（二开者注：原作者JackuXL由于未知原因关停了WearMusic的API和更新服务器，目前原项目已无法正常使用）
 
 <img src="https://i.loli.net/2021/06/14/91x6Lf2UT5aqXED.png" width="450"/>
 
